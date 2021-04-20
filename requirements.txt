@@ -43,7 +43,7 @@ pipenv==2018.11.26
 pluggy==0.13.0
 praw==6.4.0
 prawcore==1.0.1
-py==1.8.0
+py==1.10.0
 pycairo==1.16.2
 pycrypto==2.6.1
 pycups==1.9.73
