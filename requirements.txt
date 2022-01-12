@@ -39,7 +39,7 @@ packaging==19.2
 pandas==0.25.1
 pexpect==4.2.1
 Pillow==5.1.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 pluggy==0.13.0
 praw==6.4.0
 prawcore==1.0.1
